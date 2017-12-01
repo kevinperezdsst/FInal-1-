@@ -1,0 +1,22 @@
+.a
+{background:url(http://dodskypict.com/D/Galaxy-Wallpaper-On-Wallpaper-Hd-1.jpg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;}
+.b
+{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+.wrapper
+  {width: 600px;
+  margin: auto;
+  }
+  .o
+  {
+    background-color: orange;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+  }
